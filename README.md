@@ -11,7 +11,7 @@ This repository provides the official code and evaluation tools for VisReason, i
 - Add the paper link.
 - Add citation information.
 - Add license information.
-
+<sub>This repository hosts the latest testing version. For the stable official release, please visit [CASIA-IVA-Lab/VisReason](https://github.com/CASIA-IVA-Lab/VisReason).</sub>
 
 ## 👀 Overview
 
