@@ -1,6 +1,6 @@
 # Can MLLMs Reason Beyond Language? VisReason: A Comprehensive Benchmark for Vision-Centric Reasoning
 
-This repository provides the official code and evaluation tools for VisReason, including dataset indexing, API and vLLM inference scripts, automatic judging, and result summarization. (ACL 2026 Findings)
+This repository provides the testing-version code and evaluation tools for VisReason, including dataset indexing, API and vLLM inference scripts, automatic judging, and result summarization. (ACL 2026 Findings)
 
 ## 📢 News
 
